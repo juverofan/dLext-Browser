@@ -33,7 +33,7 @@ Trình duyệt hằng ngày đăng nhập được Google mà vẫn gọn: `dLex
 
 ### Cài
 
-1. Tạo bộ cài: tải bộ cài: dLext-Edge-Setup-1.3.0.exe` (187 KB) từ *Release*.
+1. Tạo bộ cài: tải bộ cài: dLext-Edge-Setup-1.3.0.exe` (187 KB) từ [*Release*](Release).
 2. Chạy `dLext-Edge-Setup-1.3.0.exe`: cài vào `%LOCALAPPDATA%\Programs\dLext` (không cần quyền quản trị), tạo shortcut **dLext** trên Desktop và Start menu, thêm **dLext (Ẩn danh)**, có mục gỡ cài đặt trong *Settings → Apps*.
 3. Muốn mọi liên kết mở bằng dLext: *Settings → Apps → Default apps → Web browser → dLext*.
 
